@@ -1,2 +1,3 @@
-# Growth-guide-Assignment
-Data Analytics Assignment provided by Growth Guide
+# Data Analysis Coursework
+Assignment Work undertaken, which includes performing some statistical Test on data to aid the decision.
+
